@@ -1,13 +1,26 @@
+# Hey there!👋 I'm Meskoj 
 
-### Hello World 👋 It's [Meskoj!](https://meskoj.github.io/MyPortfolio/)
-**Languages and Tools:**
+### 🎓 I'm Robotics Engineering student at the University of Genova
 
+## My passion for the World of Technology and Robotics 🌐🤖
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+From an early fascination with robotics and technology as a whole, my academic focus are now on Artifial Intelligence and Cognitive Architecture for Robotics.
+Join me on this journey where passion meets purpose.🚀
 
-![Meskoj's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
-view rawBlog hosted with ❤ by GitHub
+## Programming Languages
+![ROS](https://img.shields.io/badge/Ros-★★★★☆-green?style=flat&logo=ros)
+![Python](https://img.shields.io/badge/Python-★★★☆☆-blue?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-★★★☆☆-purple?style=flat&logo=cplusplus)
+![Matlab](https://img.shields.io/badge/Matlab-★★★☆☆-lightgrey?style=flat&logo=matlab)
+
+## Contact Information 📬
+
+Feel free to reach out to me for collaboration, questions, or just a friendly chat! Here's how you can get in touch:
+
+- **GitHub:** [Meskoj](https://github.com/meskoj)
+- **Email:** mmeschini001@gmail.com
+- **Linkedin:** [Marco Meschini](https://www.linkedin.com/in/marco-meschini01)
+
+Looking forward to hearing from you!
+
+![Meskoj's github stats](https://github-readme-stats.vercel.app/api?username=meskoj&show_icons=true&hide_border=true)
