@@ -1,4 +1,4 @@
-# Hey there!👋 I'm Meskoj 
+# Hey there! I'm Meskoj 👋
 
 ### 🎓 I'm Robotics Engineering student at the University of Genova
 
