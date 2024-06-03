@@ -23,4 +23,7 @@ Feel free to reach out to me for collaboration, questions, or just a friendly ch
 
 Looking forward to hearing from you!
 
-![Meskoj's github stats](https://github-readme-stats.vercel.app/api?username=meskoj&show_icons=true&hide_border=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=meskoj&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=meskoj&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meskoj&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
