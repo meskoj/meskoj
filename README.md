@@ -15,7 +15,7 @@ Join me on this journey where passion meets purpose.🚀
 
 ## Contact Information 📬
 
-Feel free to reach out to me for collaboration, questions, or just a friendly chat! Here's how you can get in touch:
+Feel free to reach me out for collaboration, questions, or just a friendly chat! Here's how you can get in touch:
 
 - **GitHub:** [Meskoj](https://github.com/meskoj)
 - **Email:** mmeschini001@gmail.com
