@@ -9,7 +9,7 @@ Join me on this journey where passion meets purpose.🚀
 
 ## Programming Languages
 ![ROS](https://img.shields.io/badge/Ros-★★★★☆-green?style=flat&logo=ros)
-![Python](https://img.shields.io/badge/Python-★★★☆☆-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-★★★★☆-blue?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C++-★★★☆☆-purple?style=flat&logo=cplusplus)
 ![Matlab](https://img.shields.io/badge/Matlab-★★★☆☆-lightgrey?style=flat&logo=matlab)
 
