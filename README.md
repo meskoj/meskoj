@@ -1,25 +1,23 @@
-# Hey there! I'm Meskoj 👋
+# Hi, I'm Marco — aka Meskoj 👋
 
-### 🎓 I'm Robotics Engineering student at the University of Genova
+🤖 **Robotics Research Fellow at the Italian Institute of Technology (IIT)**  
+🎓 MSc in Robotics Engineering, University of Genoa
 
-## My passion for the World of Technology and Robotics 🌐🤖
+I build robotic systems that connect **perception, reasoning, and action**. My research brings foundation models into cognitive architectures, helping robots understand changing environments, plan tasks, and coordinate behaviours.
 
-From an early fascination with robotics and technology as a whole, my academic focus are now on Artifial Intelligence and Cognitive Architecture for Robotics.
-Join me on this journey where passion meets purpose.🚀
+### What I work on
+- 🧠 **Embodied AI:** foundation models, multimodal perception, and semantic scene representations.
+- ⚙️ **Robot autonomy:** task planning, behaviour orchestration, and adaptive execution.
+- 🤝 **Human–robot interaction:** collaborative robotics.
 
-## Programming Languages
-![ROS](https://img.shields.io/badge/Ros-★★★★☆-green?style=flat&logo=ros)
-![Python](https://img.shields.io/badge/Python-★★★★☆-blue?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-★★★☆☆-purple?style=flat&logo=cplusplus)
-![Matlab](https://img.shields.io/badge/Matlab-★★★☆☆-lightgrey?style=flat&logo=matlab)
+### Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Contact Information 📬
+### Let's connect
+Interested in embodied AI and robots that work alongside people? Let's talk.
 
-Feel free to reach me out for collaboration, questions, or just a friendly chat! Here's how you can get in touch:
-
-- **GitHub:** [Meskoj](https://github.com/meskoj)
-- **Email:** mmeschini001@gmail.com
-- **Linkedin:** [Marco Meschini](https://www.linkedin.com/in/marco-meschini01)
-
-Looking forward to hearing from you!
-
+[LinkedIn](https://www.linkedin.com/in/marco-meschini01) · [Email](mailto:mmeschini01@gmail.com)
