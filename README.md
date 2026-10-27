@@ -1,4 +1,4 @@
-# Hi, I'm Marco — aka Meskoj 👋
+# Hi, I'm Marco - aka Meskoj 👋
 
 🤖 **Robotics Research Fellow at the Italian Institute of Technology (IIT)**  
 🎓 MSc in Robotics Engineering, University of Genoa
